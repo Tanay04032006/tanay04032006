@@ -1,6 +1,5 @@
-## Hi there 👋
 
-
+# Hi there! 👋 I'm Tanay
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanay04032006)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm Tanay
+
 
 ## 🚀 About Me
 I'm a **Computer Science Engineering** student at **SRM Institute of Science and Technology** with a strong foundation in **cybersecurity** and a keen interest in **web development**. I love exploring new technologies and building innovative projects.
