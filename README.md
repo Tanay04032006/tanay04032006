@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanay04032006)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu tanay04032006>/<seu tanay04032006>/blob/output/github-contribution-grid-snake2.svg)
 <!--
 **Tanay04032006/tanay04032006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
