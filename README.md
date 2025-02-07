@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanay04032006)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![snake animation](https://github.com/<seu tanay04032006>/<seu tanay04032006>/blob/output/github-contribution-grid-snake2.svg)
+
 <!--
 **Tanay04032006/tanay04032006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm Satya
+# Hi there! 👋 I'm Tanay
 
 ## 🚀 About Me
 I'm a **Computer Science Engineering** student at **SRM Institute of Science and Technology** with a strong foundation in **cybersecurity** and a keen interest in **web development**. I love exploring new technologies and building innovative projects.
